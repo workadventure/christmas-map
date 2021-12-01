@@ -519,12 +519,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Chrimas party \nWorkAdventure copyright\n\nCredit tileset :\n - WorkAdventure tileset use in this map\n - GatherTown tileset use in this map"
+         "value":"Chritmas party \nWorkAdventure copyright\n\nCredit tileset :\n - WorkAdventure tileset use in this map\n - GatherTown tileset use in this map"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Chrimas map"
+         "value":"WorkAdventure will support your next Christmas party. Humans are the most valuable asset of your company. Don\u2019t miss out the opportunity to enhance your corporate culture, to create a sense of belonging and to thank your co-workers.\n\nPick up the map and start planning your event:\n- Organize a Secret Santa\n- Set up a music quiz\n- Plan workshops for making gingerbread houses\n- Throw a magic show\n- And way more!\n\nTry our Christmas map \ud83c\udf84"
         }, 
         {
          "name":"mapImage",
@@ -534,7 +534,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Chrimas"
+         "value":"Christmas map"
         }, 
         {
          "name":"script",
